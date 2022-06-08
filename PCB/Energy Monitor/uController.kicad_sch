@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 70bc50da-d281-44a8-8ab5-59c41e050752)
+
+  (paper "A4")
+
+  (title_block
+    (title "Awesome Bestest Energy Monitor")
+    (rev "1.0")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "https://esp32.com/viewtopic.php?f=5&t=21992" (at 184.15 158.75 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cba689b5-cb5a-40c9-99df-c345df2629b3)
+  )
+)
